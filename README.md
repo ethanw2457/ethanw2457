@@ -15,8 +15,6 @@
 
 ## Language and Tools
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 
 ## <img src="https://media.giphy.com/media/4tsJBJmfu6TB1O8l5x/giphy.gif" width="30px"> Challenge me
 <a href="https://stackoverflow.com/users/2931510/el-hani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2931510/el-hani" height="30" width="40" /></a>
