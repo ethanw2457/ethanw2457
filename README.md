@@ -4,8 +4,12 @@
 <h4 align="center">- Ethan Wang -</h4>
 
 <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <div align="center" style="margin-bottom:200px">
+ <a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000" alt="GitHub Streak">
+</a>
+
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=ethanw2457&theme=radical&show_icons=true" />
  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanw2457&layout=compact&theme=radical" />
 </div>
