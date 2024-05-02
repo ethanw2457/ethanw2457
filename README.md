@@ -12,8 +12,7 @@
 
 
 <br>
-
-## Language and Tools
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanw2457&label=Profile%20views&color=0e75b6&style=flat" alt="ethanw2457" /> <a href='https://wakatime.com/@14712074-e7e9-4ac6-91dd-cf3f62547828'><img src="https://wakatime.com/badge/user/14712074-e7e9-4ac6-91dd-cf3f62547828.svg" alt="ethanw2457" /></a> </p>
 
 
 ## <img src="https://media.giphy.com/media/4tsJBJmfu6TB1O8l5x/giphy.gif" width="30px"> Challenge me
