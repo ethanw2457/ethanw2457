@@ -6,7 +6,7 @@
 <br>
 <div align="center" style="margin-bottom:200px">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000" alt="GitHub Streak">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ethanw2457&theme=dark&background=000000" alt="GitHub Streak">
   </a>
 </div>
 
