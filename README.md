@@ -5,11 +5,9 @@
  
 <br>
 <div align="center" style="margin-bottom:200px">
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=ethanw2457&theme=dark&background=000000" alt="GitHub Streak">
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ethanw2457&theme=meta-dark" alt="GitHub Streak" /></a>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ethanw2457&theme=meta-dark)](https://git.io/streak-stats)
+
 
 <br>
 
