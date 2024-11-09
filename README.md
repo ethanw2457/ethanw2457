@@ -3,10 +3,10 @@
 <h3 align="center">"When the change of wind blows, some people build walls, others build windmills" -Giorgio Giangiulio</h3>
 <h4 align="center">- Ethan Wang -</h4>
  
-<br>
-<div align="center" style="margin-bottom:200px">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ethanw2457" alt="GitHub Streak" /></a>
-</div>
+<> <br>
+<> <div align="center" style="margin-bottom:200px">
+<>   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ethanw2457" alt="GitHub Streak" /><> </a>
+<> </div>
 
 
 <br>
