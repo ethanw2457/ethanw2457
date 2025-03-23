@@ -22,16 +22,17 @@
 ## 🏆 Hackathon Wins:
 <ul>
   <li>
-    🥇 <strong>1st Place Overall Grand Prize Winner</strong> — 
-    <a href="https://devpost.com/software/remi-hbkrzs">BoilerMake Hackathon</a> (Purdue's Flagship Hackathon)
+    <strong><a href="https://devpost.com/software/remi-hbkrzs">BoilerMake Hackathon</a></strong> (Purdue's Flagship Hackathon)
+    <ul>
+      <li>🥇 1st Place Overall Grand Prize Winner</li>
+      <li>🏅 College of Engineering Most Consequential Project</li>
+    </ul>
   </li>
   <li>
-    🏅 <strong>College of Engineering Most Consequential Project</strong> — 
-    <a href="https://devpost.com/software/remi-hbkrzs">BoilerMake Hackathon</a> (Purdue's Flagship Hackathon)
-  </li>
-  <li>
-    🥈 <strong>2nd Place Overall</strong> — 
-    <a href="https://devpost.com/software/gateway-s2tdac">Hello World Hackathon</a> (Purdue's Freshman Hackathon)
+    <strong><a href="https://devpost.com/software/gateway-s2tdac">Hello World Hackathon</a></strong> (Purdue's Freshman Hackathon)
+    <ul>
+      <li>🥈 2nd Place Overall</li>
+    </ul>
   </li>
 </ul>
 
