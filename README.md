@@ -18,12 +18,22 @@
 <br>
 <!-- <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp; -->
 <!-- https://devicon.dev/ -->
-## Hackathon Wins:
-<div>
- 🏆1st Place Overall Grand Prize Winner [Boilermake Hackathon](https://devpost.com/software/remi-hbkrzs) (Purdue's Flagship Hackathon)
- 🏅College of Engineering Most Consequential Project [Boilermake Hackathon](https://devpost.com/software/remi-hbkrzs) (Purdue's Flagship Hackathon)
- 🥈2nd Place Overall at [Hello World Hackathon](https://devpost.com/software/gateway-s2tdac) (Purdue's Freshman Hackathon)
-</div>
+
+## 🏆 Hackathon Wins:
+<ul>
+  <li>
+    🥇 <strong>1st Place Overall Grand Prize Winner</strong> — 
+    <a href="https://devpost.com/software/remi-hbkrzs">BoilerMake Hackathon</a> (Purdue's Flagship Hackathon)
+  </li>
+  <li>
+    🏅 <strong>College of Engineering Most Consequential Project</strong> — 
+    <a href="https://devpost.com/software/remi-hbkrzs">BoilerMake Hackathon</a> (Purdue's Flagship Hackathon)
+  </li>
+  <li>
+    🥈 <strong>2nd Place Overall</strong> — 
+    <a href="https://devpost.com/software/gateway-s2tdac">Hello World Hackathon</a> (Purdue's Freshman Hackathon)
+  </li>
+</ul>
 
 ## Languages:
 <div>
