@@ -171,10 +171,6 @@
 -->
 <br>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ethanw2457&theme=dracula&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ## Contact me:
 <div>
 <a href="https://www.instagram.com/ethangwang/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -182,7 +178,7 @@
 <a href="https://www.linkedin.com/in/ethangwang/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ethanw2457&theme=dracula&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
@@ -192,6 +188,4 @@
  
   
 <div align="left">
-  <h2>Contribution Chart</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ArshSSandhu/ArshSSandhu/output/github-contribution-grid-snake.svg" />
