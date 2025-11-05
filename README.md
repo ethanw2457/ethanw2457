@@ -178,11 +178,12 @@
 <a href="https://www.linkedin.com/in/ethangwang/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<div>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ethanw2457&theme=dracula&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
 <br/>
 
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ethanw2457&theme=dracula&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img width="800" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethanw2457&theme=monokai">
