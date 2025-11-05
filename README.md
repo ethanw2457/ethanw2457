@@ -171,12 +171,7 @@
 -->
 <br>
 
-## Contact me:
-<div>
-<a href="https://www.instagram.com/ethangwang/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto: wang6647@purdue.edu"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ethangwang/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## Miscellaneous:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ethanw2457&theme=dracula&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
