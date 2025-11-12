@@ -22,7 +22,7 @@
 ## 🏆 Hackathon Wins:
 <ul>
   <li>
-    <strong><a href="https://devpost.com/software/nautilink" target="_blank" rel="noopener noreferrer">2025 HackPrinceton</a></strong> (🐯Princeton's Flagship Hackathon)
+    <strong><a href="https://devpost.com/software/nautilink">2025 HackPrinceton</a></strong> (🐯Princeton's Flagship Hackathon)
     <ul>
       <li>🥈 Finalist</li>
       <li>🏆 Best Use of Solana</li>
