@@ -22,6 +22,13 @@
 ## 🏆 Hackathon Wins:
 <ul>
   <li>
+    <strong><a href="https://devpost.com/software/nautilink">2025 HackPrinceton</a></strong> (🐯Princeton's Flagship Hackathon)
+    <ul>
+      <li>🥈 Finalist</li>
+      <li>🏆 Best Use of Solana</li>
+    </ul>
+  </li>
+  <li>
     <strong><a href="https://devpost.com/software/qlasses">2025 BigRed//Hacks</a></strong> (🐻Cornell's Flagship Hackathon)
     <ul>
       <li>🥈 2nd Place Overall</li>
