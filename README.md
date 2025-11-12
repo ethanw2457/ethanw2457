@@ -42,7 +42,7 @@
     </ul>
   </li>
   <li>
-    <strong><a href="https://devpost.com/software/gateway-s2tdac">2024 Hello World Hackathon</a></strong> (✈️Purdue's Freshman Hackathon)
+    <strong><a href="https://devpost.com/software/gateway-s2tdac">2024 Hello World Hackathon</a></strong> (🤠Biggest Freshman Hackathon in the MidWest)
     <ul>
       <li>🥈 2nd Place Overall</li>
     </ul>
