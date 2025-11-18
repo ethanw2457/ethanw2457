@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=abc&size=35&center=true&vCenter=true&width=1000&lines=the+dreamer;the+builder;the+storyteller;ethan+g+wang)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=abc&size=35&center=true&vCenter=true&width=1000&lines=the+dreamer;the+builder;the+storyteller;ethangwang)](https://git.io/typing-svg)
 
-<h3 align="center">"When the change of wind blows, some people build walls, others build windmills" -Giorgio Giangiulio</h3>
+<h3 align="center">"excellence is the capacity to take pain" -Isadore Sharp</h3>
 <h4 align="center">- Ethan Wang -</h4>
  
 
