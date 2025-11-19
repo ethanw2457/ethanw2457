@@ -2,7 +2,7 @@
 
 <h3 align="center">"excellence is the capacity to take pain" -Isadore Sharp</h3>
 <h4 align="center">- Ethan Wang -</h4>
- 
+  
 
 
 <br>
