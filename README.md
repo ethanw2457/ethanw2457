@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=abc&size=35&center=true&vCenter=true&width=1000&lines=the+dreamer;the+builder;the+storyteller;ethangwang)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=abc&size=35&center=true&vCenter=true&width=1000&lines=the+dreamer;the+builder;the+storyteller;ethangwang)](https://git.io/typing-svg)
 
 <h3 align="center">"excellence is the capacity to take pain" -Isadore Sharp</h3>
 <h4 align="center">- Ethan Wang -</h4>
@@ -22,7 +22,7 @@
 ## 👨🏻‍💻 Work:
 <ul>
   <li>
-    __[26🏖️][🧳] Software Engineer Intern @ LinkedIn__
+    <strong>[26🏖️][🧳] Software Engineer Intern @ LinkedIn</strong>
   </li>
   <li>
     **[25🍁][🚑] Machine Learning Intern @ Johnson & Johnson**
