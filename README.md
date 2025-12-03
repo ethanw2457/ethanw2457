@@ -19,6 +19,34 @@
 <!-- <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp; -->
 <!-- https://devicon.dev/ -->
 
+## 👨🏻‍💻 Internships:
+<ul>
+  <li>
+    Software Engineer Intern @ LinkedIn
+  </li>
+  <li>
+    Machine Learning Intern @ Johnson & Johnson
+  </li>
+  <li>
+    Software Engineer Intern @ Northrop Grumman
+  </li>
+  <li>
+    Machine Learning Intern @ General Electric
+  </li>
+  <li>
+    Machine Learning Intern @ BASF
+  </li>
+  <li>
+    Software Engineer Intern @ Styl. AI
+  </li>
+  <li>
+    Cybersecurity Intern @ NJCCIC
+  </li>
+  <li>
+    Software Engineer Intern @ Jetson
+  </li>
+</ul>
+
 ## 🏆 Hackathon Wins:
 <ul>
   <li>
