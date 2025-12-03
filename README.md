@@ -22,34 +22,34 @@
 ## 👨🏻‍💻 Work:
 <ul>
   <li>
-    [26🏖️][🧳] Software Engineer Intern @ <strong>LinkedIn</strong>
+    [26🏖️] Software Engineer Intern 🧳 <strong>LinkedIn</strong>
   </li>
   <li>
-    [25🍁][🚑] Machine Learning Intern @ <strong>Johnson & Johnson</strong>
+    [25🍁] Machine Learning Intern 🚑 <strong>Johnson & Johnson</strong>
   </li>
   <li>
-    [25🏖️][🛰️] Software Engineer Intern @ <strong>Northrop Grumman</strong>
+    [25🏖️] Software Engineer Intern 🛰️ <strong>Northrop Grumman</strong>
   </li>
   <li>
-    [25💐][🤖] Machine Learning Intern @ <strong>General Electric</strong>
+    [25💐] Machine Learning Intern 🤖 <strong>General Electric</strong>
   </li>
   <li>
-    [25💐][⚗️] Machine Learning Intern @ BASF
+    [25💐] Machine Learning Intern ⚗️ BASF
   </li>
   <li>
-    [24🍁][👒] Software Engineer Intern @ <strong>Styl. AI</strong>
+    [24🍁] Software Engineer Intern 👒 <strong>Styl. AI</strong>
   </li>
   <li>
-    [24🏖️][🔐] Cybersecurity Intern @ NJCCIC
+    [24🏖️] Cybersecurity Intern 🔐 NJCCIC
   </li>
   <li>
-    [23🏖️][🚀] Software Engineer Intern @ Jetson
+    [23🏖️] Software Engineer Intern 🚀 Jetson
   </li>
   <li>
-    [23🏖️][🔐] Cybersecurity Intern @ NJCCIC
+    [23🏖️] Cybersecurity Intern 🔐 NJCCIC
   </li>
   <li>
-    [23💐][🚀] Software Engineer Intern @ Jetson
+    [23💐] Software Engineer Intern 🚀 Jetson
   </li>
 </ul>
 
