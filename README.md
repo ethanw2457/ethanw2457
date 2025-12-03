@@ -22,7 +22,7 @@
 ## 👨🏻‍💻 Work:
 <ul>
   <li>
-    **[26🏖️][🧳] Software Engineer Intern @ LinkedIn**
+    __[26🏖️][🧳] Software Engineer Intern @ LinkedIn__
   </li>
   <li>
     **[25🍁][🚑] Machine Learning Intern @ Johnson & Johnson**
