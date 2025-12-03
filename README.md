@@ -34,22 +34,22 @@
     [25💐] Machine Learning Intern 🤖 <strong>General Electric</strong>
   </li>
   <li>
-    [25💐] Machine Learning Intern ⚗️ BASF
+    [25💐] Machine Learning Intern ⚗️ <strong>BASF</strong>
   </li>
   <li>
     [24🍁] Software Engineer Intern 👒 <strong>Styl. AI</strong>
   </li>
   <li>
-    [24🏖️] Cybersecurity Intern 🔐 NJCCIC
+    [24🏖️] Cybersecurity Intern 🔐 <strong>NJCCIC</strong>
   </li>
   <li>
-    [23🏖️] Software Engineer Intern 🚀 Jetson
+    [23🏖️] Software Engineer Intern 🚀 <strong>Jetson</strong>
   </li>
   <li>
-    [23🏖️] Cybersecurity Intern 🔐 NJCCIC
+    [23🏖️] Cybersecurity Intern 🔐 <strong>NJCCIC</strong>
   </li>
   <li>
-    [23💐] Software Engineer Intern 🚀 Jetson
+    [23💐] Software Engineer Intern 🚀 <strong>Jetson</strong>
   </li>
 </ul>
 
