@@ -25,7 +25,7 @@
     <strong>[26🏖️][🧳] Software Engineer Intern @ LinkedIn</strong>
   </li>
   <li>
-    <strong>[25🍁][🚑] Machine Learning Intern @ Johnson & Johnson</strong>
+    [25🍁][🚑] Machine Learning Intern @ Johnson & Johnson
   </li>
   <li>
     <strong>[25🏖️][🛰️] Software Engineer Intern @ Northrop Grumman</strong>
