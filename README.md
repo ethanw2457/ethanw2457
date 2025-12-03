@@ -22,22 +22,22 @@
 ## 👨🏻‍💻 Work:
 <ul>
   <li>
-    [26🏖️][🧳] Software Engineer Intern @ LinkedIn
+    **[26🏖️][🧳] Software Engineer Intern @ LinkedIn**
   </li>
   <li>
-    [25🍁][🚑] Machine Learning Intern @ Johnson & Johnson
+    **[25🍁][🚑] Machine Learning Intern @ Johnson & Johnson**
   </li>
   <li>
-    [25🏖️][🛰️] Software Engineer Intern @ Northrop Grumman
+    **[25🏖️][🛰️] Software Engineer Intern @ Northrop Grumman**
   </li>
   <li>
-    [25💐][🤖] Machine Learning Intern @ General Electric
+    **[25💐][🤖] Machine Learning Intern @ General Electric**
   </li>
   <li>
     [25💐][⚗️] Machine Learning Intern @ BASF
   </li>
   <li>
-    [24🍁][👒] Software Engineer Intern @ Styl. AI
+    **[24🍁][👒] Software Engineer Intern @ Styl. AI**
   </li>
   <li>
     [24🏖️][🔐] Cybersecurity Intern @ NJCCIC
