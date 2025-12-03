@@ -19,6 +19,36 @@
 <!-- <img src="" title="Python" alt="Python" width="40" height="40"/>&nbsp; -->
 <!-- https://devicon.dev/ -->
 
+## 🏆 Hackathon Wins:
+<ul>
+  <li>
+    <strong><a href="https://devpost.com/software/nautilink">2025 HackPrinceton</a></strong> (🐯Princeton's Flagship Hackathon)
+    <ul>
+      <li>🥈 Finalist</li>
+      <li>🏆 Best Use of Solana</li>
+    </ul>
+  </li>
+  <li>
+    <strong><a href="https://devpost.com/software/qlasses">2025 BigRed//Hacks</a></strong> (🐻Cornell's Flagship Hackathon)
+    <ul>
+      <li>🥈 2nd Place Overall</li>
+    </ul>
+  </li>
+  <li>
+    <strong><a href="https://devpost.com/software/remi-hbkrzs">2025 BoilerMake Hackathon XII</a></strong> (🚂Purdue's Flagship Hackathon)
+    <ul>
+      <li>🥇 1st Place Overall Grand Prize Winner</li>
+      <li>🏅 College of Engineering Most Consequential Project</li>
+    </ul>
+  </li>
+  <li>
+    <strong><a href="https://devpost.com/software/gateway-s2tdac">2024 Hello World Hackathon</a></strong> (🤠Biggest Freshman Hackathon in the MidWest)
+    <ul>
+      <li>🥈 2nd Place Overall</li>
+    </ul>
+  </li>
+</ul>
+
 ## 👨🏻‍💻 Work:
 <ul>
   <li>
@@ -50,36 +80,6 @@
   </li>
   <li>
     [23💐] Software Engineer Intern 🚀 <strong>Jetson</strong>
-  </li>
-</ul>
-
-## 🏆 Hackathon Wins:
-<ul>
-  <li>
-    <strong><a href="https://devpost.com/software/nautilink">2025 HackPrinceton</a></strong> (🐯Princeton's Flagship Hackathon)
-    <ul>
-      <li>🥈 Finalist</li>
-      <li>🏆 Best Use of Solana</li>
-    </ul>
-  </li>
-  <li>
-    <strong><a href="https://devpost.com/software/qlasses">2025 BigRed//Hacks</a></strong> (🐻Cornell's Flagship Hackathon)
-    <ul>
-      <li>🥈 2nd Place Overall</li>
-    </ul>
-  </li>
-  <li>
-    <strong><a href="https://devpost.com/software/remi-hbkrzs">2025 BoilerMake Hackathon XII</a></strong> (🚂Purdue's Flagship Hackathon)
-    <ul>
-      <li>🥇 1st Place Overall Grand Prize Winner</li>
-      <li>🏅 College of Engineering Most Consequential Project</li>
-    </ul>
-  </li>
-  <li>
-    <strong><a href="https://devpost.com/software/gateway-s2tdac">2024 Hello World Hackathon</a></strong> (🤠Biggest Freshman Hackathon in the MidWest)
-    <ul>
-      <li>🥈 2nd Place Overall</li>
-    </ul>
   </li>
 </ul>
 
