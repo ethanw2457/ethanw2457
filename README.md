@@ -2,16 +2,6 @@
 
 <h3 align="center">"excellence is the capacity to take pain" -Isadore Sharp</h3>
 <h4 align="center">- Ethan Wang -</h4>
-  
-
-
-<br>
-
-<div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=ethanw2457&theme=radical&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanw2457&layout=compact&theme=radical" />
-</div>
-
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanw2457&label=Profile%20views&color=0e75b6&style=flat" alt="ethanw2457" /> <a href="https://wakatime.com/@75d58da1-1cd8-4ee5-940d-ff5b536c346e"></p>
