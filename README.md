@@ -24,70 +24,17 @@
 ⠀⠀⠀⠀⠈⠳⣤⡈⠓⠢⠤⠤⠤⢒⣉⡤⠟⠻⣿⣿⣿⠛⠻⢄⡈⠙⠒⠒⠒⠚⠁⣀⣤⠞⠁⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠛⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠒⠒⠒⠚⠋⠉⠀⠀⠀⠀⠀⠀⠀
 ```
-   
-## 🏆 Hackathon Wins:
-<ul>
-  <li>
-    <strong><a href="https://devpost.com/software/nautilink">2025 HackPrinceton</a></strong> (🐯Princeton's Flagship Hackathon)
-    <ul>
-      <li>🥈 Finalist</li>
-      <li>🏆 Best Use of Solana</li>
-    </ul>
-  </li>
-  <li>
-    <strong><a href="https://devpost.com/software/qlasses">2025 BigRed//Hacks</a></strong> (🐻Cornell's Flagship Hackathon)
-    <ul>
-      <li>🥈 2nd Place Overall</li>
-    </ul>
-  </li>
-  <li>
-    <strong><a href="https://devpost.com/software/remi-hbkrzs">2025 BoilerMake Hackathon XII</a></strong> (🚂Purdue's Flagship Hackathon)
-    <ul>
-      <li>🥇 1st Place Overall Grand Prize Winner</li>
-      <li>🏅 College of Engineering Most Consequential Project</li>
-    </ul>
-  </li>
-  <li>
-    <strong><a href="https://devpost.com/software/gateway-s2tdac">2024 Hello World Hackathon</a></strong> (🤠Biggest Freshman Hackathon in the MidWest)
-    <ul>
-      <li>🥈 2nd Place Overall</li>
-    </ul>
-  </li>
-</ul>
+Currently SWE Intern @ Linkedin
+Ex-NASA, Northrop Grumman, GE, AWS, J&J, Styl. (Acquired)
+4x hackathon winner ($5K+ in prizes, visited 7x universities/hackathons)
+6x SWE intern (Pre-seed, Seed, Fortune 500, Gov, 10k+ employee bank)
+Tech Content Creator IG @ethangwang (24k+ Followers, 22Mil Views)
 
-## 👨🏻‍💻 Work:
-<ul>
-  <li>
-    [26🏖️] Software Engineer Intern 🧳 <strong>LinkedIn</strong>
-  </li>
-  <li>
-    [25🍁] Machine Learning Intern 🚑 <strong>Johnson & Johnson</strong>
-  </li>
-  <li>
-    [25🏖️] Software Engineer Intern 🛰️ <strong>Northrop Grumman</strong>
-  </li>
-  <li>
-    [25💐] Machine Learning Intern 🤖 <strong>General Electric</strong>
-  </li>
-  <li>
-    [25💐] Machine Learning Intern ⚗️ <strong>BASF</strong>
-  </li>
-  <li>
-    [24🍁] Software Engineer Intern 👒 <strong>Styl. AI</strong>
-  </li>
-  <li>
-    [24🏖️] Cybersecurity Intern 🔐 <strong>NJCCIC</strong>
-  </li>
-  <li>
-    [23🏖️] Software Engineer Intern 🚀 <strong>Jetson</strong>
-  </li>
-  <li>
-    [23🏖️] Cybersecurity Intern 🔐 <strong>NJCCIC</strong>
-  </li>
-  <li>
-    [23💐] Software Engineer Intern 🚀 <strong>Jetson</strong>
-  </li>
-</ul>
+Fun facts:
+- grew a gaming discord server to 10,000 members (8,000 active daily)
+- Professional CODM at 13 
+- top #13 Bull NA and top #500 Shelly Global in Brawlstars
+- ex-National Level Ice Hockey Player (11 years)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanw2457&label=Profile%20views&color=0e75b6&style=flat" alt="ethanw2457" /> <a href="https://wakatime.com/@75d58da1-1cd8-4ee5-940d-ff5b536c346e"></p>
 
