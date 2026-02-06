@@ -24,11 +24,6 @@
 ⠀⠀⠀⠀⠈⠳⣤⡈⠓⠢⠤⠤⠤⢒⣉⡤⠟⠻⣿⣿⣿⠛⠻⢄⡈⠙⠒⠒⠒⠚⠁⣀⣤⠞⠁⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠛⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠒⠒⠒⠚⠋⠉⠀⠀⠀⠀⠀⠀⠀
 ```
-
-Find out more about me at <strong><a href="https://ethangwang.com">ethangwang.com</a></strong>
-    
-<br> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanw2457&label=Profile%20views&color=0e75b6&style=flat" alt="ethanw2457" /> <a href="https://wakatime.com/@75d58da1-1cd8-4ee5-940d-ff5b536c346e"></p>
    
 ## 🏆 Hackathon Wins:
 <ul>
@@ -93,3 +88,7 @@ Find out more about me at <strong><a href="https://ethangwang.com">ethangwang.co
     [23💐] Software Engineer Intern 🚀 <strong>Jetson</strong>
   </li>
 </ul>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanw2457&label=Profile%20views&color=0e75b6&style=flat" alt="ethanw2457" /> <a href="https://wakatime.com/@75d58da1-1cd8-4ee5-940d-ff5b536c346e"></p>
+
+Find out more about me at <strong><a href="https://ethangwang.com">ethangwang.com</a></strong>
