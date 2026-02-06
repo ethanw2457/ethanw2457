@@ -1,5 +1,5 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=abc&size=35&center=true&vCenter=true&width=1000&lines=the+dreamer;the+builder;the+storyteller;ethangwang)](https://git.io/typing-svg)
-
+```
 ⠀⠀⠀⠀⠀⢀⡀⠤⠤⠤⠤⢄⣀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⡠⠊⠁⠀⠀⠀⠀⠀⠀⠀⠑⢢⠀⠀⠀⠀
 ⠀⠀⠰⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢣⠀⠀⠀
@@ -12,6 +12,7 @@
 ⠘⡜⠀⠀⢀⣀⢡⡐⣰⣷⡐⣤⢁⣀⠀⠀⠑⠜⠀
 ⠀⠰⡀⢸⠱⣷⢈⣸⣿⣿⣿⣈⢸⡷⢙⢀⡜⠀⠀
 ⠀⠀⠈⠐⠋⠭⠅⠊⠙⠛⠉⠂⠭⠍⠓⠉⠀⠀⠀
+```
     
 <br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanw2457&label=Profile%20views&color=0e75b6&style=flat" alt="ethanw2457" /> <a href="https://wakatime.com/@75d58da1-1cd8-4ee5-940d-ff5b536c346e"></p>
