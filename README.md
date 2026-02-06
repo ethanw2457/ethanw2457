@@ -24,9 +24,9 @@
 ⠀⠀⠀⠀⠈⠳⣤⡈⠓⠢⠤⠤⠤⢒⣉⡤⠟⠻⣿⣿⣿⠛⠻⢄⡈⠙⠒⠒⠒⠚⠁⣀⣤⠞⠁⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠛⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠒⠒⠒⠚⠋⠉⠀⠀⠀⠀⠀⠀⠀
 ```
-Currently SWE Intern @ Linkedin
-Ex-NASA, Northrop Grumman, GE, AWS, J&J, Styl. (Acquired)
-4x hackathon winner ($5K+ in prizes, visited 7x universities/hackathons)
+Currently SWE Intern @ Linkedin<br>
+Ex-NASA, Northrop Grumman, GE, AWS, J&J, Styl. (Acquired)<br>
+4x hackathon winner ($5K+ in prizes, visited 7x universities/hackathons)<br>
 6x SWE intern (Pre-seed, Seed, Fortune 500, Gov, 10k+ employee bank)
 Tech Content Creator IG @ethangwang (24k+ Followers, 22Mil Views)
 
