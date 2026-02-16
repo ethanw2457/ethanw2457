@@ -30,7 +30,7 @@
 ```
 [in]coming SWE @ LinkedIn
 Ex-NASA, Northrop Grumman, GE, AWS, J&J, Styl. (Acquired 4 Mil)
-9x hackathon winner ($10K+ in prizes, visited 27x universities/hackathons)
+9x hackathon winner ($10K+ in prizes, visited 20+ universities/hackathons)
 9x SWE intern (Pre-seed, Seed, Fortune 500, Gov, 10k+ employee bank)
 Tech Content Creator @ethangwang (35k+ Followers, 25M+ Views)
 
