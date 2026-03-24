@@ -35,13 +35,13 @@ Ex-NASA, Northrop Grumman, GE, AWS, J&J, Styl. (Acquired 4 Mil)
 Tech Content Creator @ethangwang (35k+ Followers, 25M+ Views)
 
 Fun facts:
-- 120+ episodes & 6k+ mins of Founders Podcast by David Senra
+- 240+ episodes of Founders Podcast by David Senra
 - grew a gaming discord server to 10,000 members (8,000 active daily)
 - professional call of duty mobile player at 13
 - top #13 Bull NA and top #500 Shelly Global in Brawlstars
 - ex-National Level Ice Hockey Player (11 years)
 - tech content creator with 34k followers and 25m Views
-- 199,172 minutes and 463 genres on spotify wrapped
+- 463 genres on spotify wrapped
 - won the grand prize at purdue flagship hackathon as a freshman
 ```
 
