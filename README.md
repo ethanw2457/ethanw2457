@@ -35,7 +35,7 @@ Ex-NASA, Northrop Grumman, GE, AWS, J&J, Styl. (Acquired 4 Mil)
 Tech Content Creator @ethangwang (35k+ Followers, 25M+ Views)
 
 Fun facts:
-- 240+ episodes of Founders Podcast by David Senra
+- 260+ episodes of Founders Podcast by David Senra
 - grew a gaming discord server to 10,000 members (8,000 active daily)
 - professional call of duty mobile player at 13
 - top #13 Bull NA and top #500 Shelly Global in Brawlstars
